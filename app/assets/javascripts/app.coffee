@@ -1,0 +1,1 @@
+recette = angular.modeule('recette', [])
